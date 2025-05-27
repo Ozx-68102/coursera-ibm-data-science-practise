@@ -3,13 +3,13 @@ This is a repo that saves solutions for [IBM Data Science Professional Certifica
 Code is for personal learning and follows Coursera's honor code. No plagiarism intended.
 ****
 📚 **Courses Covered**
-1. Python for Data Science, AI & Development
-2. Python Project for Data Science
-3. Databases and SQL for Data Science
-4. Data Analysis with Python
-5. Data Visualization with Python
-6. Machine Learning with Python
-7. Applied Data Science Capstone
+1. Python for Data Science, AI & Development **(In progress)**
+2. Python Project for Data Science (Not started)
+3. Databases and SQL for Data Science (Not started)
+4. Data Analysis with Python (Not started)
+5. Data Visualization with Python (Not started)
+6. Machine Learning with Python (Not started)
+7. Applied Data Science Capstone (Not started)
 
 🔧 **Tech Stack**
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib)
