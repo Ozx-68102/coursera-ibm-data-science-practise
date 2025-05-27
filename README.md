@@ -1,5 +1,5 @@
 # Coursera IBM Data Science Practise
-This is a repo that saves solutions for IBM Data Science Professional Certificate assignments and Capstone project.<br />
+This is a repo that saves solutions for [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) assignments and Capstone project.<br />
 Code is for personal learning and follows Coursera's honor code. No plagiarism intended.
 ****
 📚 **Courses Covered**
