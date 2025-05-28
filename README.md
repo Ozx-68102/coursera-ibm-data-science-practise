@@ -1,7 +1,14 @@
 # Coursera IBM Data Science Practise
 This is a repo that saves solutions for [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) assignments and Capstone project.<br />
 Code is for personal learning and follows Coursera's honor code. No plagiarism intended.
+
+**Kindly Note**:
+- The version of Python used in this repo: **3.13.0**
+- Please verify your Python version before using this repo for your studies.
+
 ****
+### Details for this repo
+
 📚 **Courses Covered**
 1. Python for Data Science, AI & Development **(In progress)**
 2. Python Project for Data Science (Not started)
