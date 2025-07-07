@@ -10,8 +10,8 @@ Code is for personal learning and follows Coursera's honor code. No plagiarism i
 ### Details for this repo
 
 📚 **Courses Covered**
-1. Python for Data Science, AI & Development (Accomplished)
-2. Python Project for Data Science (Not started)
+1. Python for Data Science, AI & Development (**<u>Accomplished</u>**)
+2. Python Project for Data Science (**In progress**)
 3. Databases and SQL for Data Science (Not started)
 4. Data Analysis with Python (Not started)
 5. Data Visualization with Python (Not started)
