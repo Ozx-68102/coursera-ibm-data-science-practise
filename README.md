@@ -13,6 +13,7 @@ Code is for personal learning and follows Coursera's honor code. No plagiarism i
 1. Python for Data Science, AI & Development (✅**Accomplished**)
 2. Python Project for Data Science (✅**Accomplished**)
 3. Databases and SQL for Data Science (▶️**In progress**)
+   - _**Special Note:** This course uses a third-party application called **Datasette** to provide a cloud-based lab environment. For compliance with the **Coursera Honor Code**, and to protect personal information, I can only provide the corresponding SQL statements here. The lab's proprietary environment and data are not publicly replicable._
 4. Data Analysis with Python (Not started)
 5. Data Visualization with Python (Not started)
 6. Machine Learning with Python (Not started)
