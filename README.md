@@ -2,7 +2,8 @@
 This is a repo that saves solutions for [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) assignments and Capstone project.<br />
 Code is for personal learning and follows Coursera's honor code. No plagiarism intended.
 
-**Kindly Note**:
+**Kindly Notes**:
+- Tool recommend: PyCharm
 - The version of Python used in this repo: **3.13**
 - Please verify your Python version before using this repo for your studies.
 
@@ -28,6 +29,7 @@ Code is for personal learning and follows Coursera's honor code. No plagiarism i
 - Personal learning records — not for assignment submission.
 - Follows Coursera's Honor Code.
 - No proprietary course data included.
+- **The original notebook has been refactored for clarity and is optimized for the latest PyCharm-integrated Jupyter environment. All deprecated commands and redundant setups have been removed.**
 
 📜 **License**
 - MIT License © 2025 Ozx-68102
