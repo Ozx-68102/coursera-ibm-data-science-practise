@@ -3,7 +3,7 @@ This is a repo that saves solutions for [IBM Data Science Professional Certifica
 Code is for personal learning and follows Coursera's honor code. No plagiarism intended.
 
 **Kindly Notes**:
-- Tool recommend: PyCharm
+- Tool recommendation: **PyCharm**
 - The version of Python used in this repo: **3.13**
 - Please verify your Python version before using this repo for your studies.
 
