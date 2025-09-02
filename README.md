@@ -17,6 +17,7 @@ Code is for personal learning and follows Coursera's honor code. No plagiarism i
    - _**Special Note:** The initial modules (M1-M3) of this course focus purely on SQL syntax and use a proprietary cloud environment. To comply with the Coursera Honor Code and to avoid replicating the course's exclusive data, those parts only contain the corresponding SQL statements in Markdown format._
 4. Data Analysis with Python (✅**Accomplished**)
 5. Data Visualization with Python (▶️**In progress**)
+   - _**Special Note:** Some of the original lab files contained large visual outputs, making them difficult to display on GitHub. I cleared these outputs to ensure the repository remains lightweight and the files are easily viewable. This practice aligns with best practices for managing Jupyter Notebooks in version control._
 6. Machine Learning with Python (Not started)
 7. Applied Data Science Capstone (Not started)
 
