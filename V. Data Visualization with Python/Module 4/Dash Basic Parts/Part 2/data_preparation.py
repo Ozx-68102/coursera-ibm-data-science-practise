@@ -1,3 +1,4 @@
+# Import required libraries
 import os
 import time
 
@@ -38,12 +39,10 @@ def download_file(url: str) -> str:
     return filepath
 
 
+# Read the airline data into the pandas dataframe
 def data_preparing() -> pd.DataFrame:
     data_url = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/airline_data.csv"
-
     filename = download_file(url=data_url)
-
     airline_data = pd.read_csv(filename, encoding="ISO-8859-1",
                                dtype={"Div1Airport": str, "Div1TailNum": str, "Div2Airport": str, "Div2TailNum": str})
-
     return airline_data

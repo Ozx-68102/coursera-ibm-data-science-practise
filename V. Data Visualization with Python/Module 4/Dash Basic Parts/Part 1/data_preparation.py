@@ -1,3 +1,4 @@
+# Import required packages
 import os
 import time
 
@@ -41,13 +42,16 @@ def download_file(url: str) -> str:
 
 
 def data_preparing() -> go.Figure:
+    # Read the airline data into pandas dataframe
     data_url = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/airline_data.csv"
     filename = download_file(url=data_url)
-
     airline_data = pd.read_csv(filename, encoding="ISO-8859-1",
                                dtype={"Div1Airport": str, "Div1TailNum": str, "Div2Airport": str, "Div2TailNum": str})
+
+    # Randomly sample 500 data points. Setting the random state to be 0 so that we get same result.
     data = airline_data.sample(n=500, random_state=0)
 
+    # Pie Chart Creation
     fig = px.pie(data, values="Flights", names="DistanceGroup", title="Distance group proportion by flights")
 
     return fig
