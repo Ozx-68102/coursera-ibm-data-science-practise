@@ -46,3 +46,7 @@ def data_preparing() -> pd.DataFrame:
     airline_data = pd.read_csv(filename, encoding="ISO-8859-1",
                                dtype={"Div1Airport": str, "Div1TailNum": str, "Div2Airport": str, "Div2TailNum": str})
     return airline_data
+
+
+if __name__ == "__main__":
+    pass

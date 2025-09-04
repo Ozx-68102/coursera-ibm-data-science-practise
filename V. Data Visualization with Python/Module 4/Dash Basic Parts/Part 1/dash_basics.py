@@ -17,5 +17,5 @@ app.layout = html.Div(children=[
 
 
 # Run the application
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run()

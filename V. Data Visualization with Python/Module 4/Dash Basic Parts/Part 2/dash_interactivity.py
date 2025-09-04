@@ -13,7 +13,7 @@ app.layout = html.Div(children=[
     html.H1("Airline Performance Dashboard", style={"textAlign": "center", "color": "#503D36", "font-size": 40}),
     html.Div(["Input Year: ",
               dcc.Input(id="input-year", value="2010", type="number", style={"height": "50px", "font-size": 35})],
-             style={'font-size': 40}),
+             style={"font-size": 40}),
     html.Br(),
     html.Br(),
     html.Div(dcc.Graph(id="line-plot"))
@@ -50,6 +50,6 @@ def get_graph(entered_year: int) -> go.Figure:
     return fig
 
 # Initial the constant and run the app
-if __name__ == '__main__':
+if __name__ == "__main__":
     DATA = data_preparing()
     app.run()
