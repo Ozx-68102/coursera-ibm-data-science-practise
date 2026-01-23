@@ -20,7 +20,7 @@ Code is for personal learning and follows Coursera's honor code. No plagiarism i
 5. Data Visualization with Python (✅**Accomplished**)
    - _**Special Note:** Some of the original lab files contained large visual outputs, making them difficult to display on GitHub. I cleared these outputs to ensure the repository remains lightweight and the files are easily viewable. This practice aligns with best practices for managing Jupyter Notebooks in version control._
 6. Machine Learning with Python (▶️**In progress**)
-   - _**Special None:** This course starts directly from Module 2. Module 1 consists entirely of theoretical content without any Labs, thus no practical files were provided for this section._
+   - _**Special Note:** This course starts directly from Module 2. Module 1 consists entirely of theoretical content without any Labs, thus no practical files were provided for this section._
 7. Applied Data Science Capstone (Not started)
 
 🔧 **Tech Stack**
