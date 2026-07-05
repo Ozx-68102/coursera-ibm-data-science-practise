@@ -1,17 +1,19 @@
 # Coursera IBM Data Science Practise
 
-This is a repo that saves my solutions for [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) assignments and Capstone project.
+> All relevant solutions are complete as of July 3rd, 2026.  
+> Coursework in scope is finished. So this repository is archived and will no longer be updated.
+
+This is a repo that saves my solutions for six courses in the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 ### Details for this repo
 
 📚 **Courses Covered**
-1. Python for Data Science, AI & Development (✅**Accomplished**)
-2. Python Project for Data Science (✅**Accomplished**)
-3. Databases and SQL for Data Science (✅**Accomplished**)
-4. Data Analysis with Python (✅**Accomplished**)
-5. Data Visualization with Python (✅**Accomplished**)
-6. Machine Learning with Python (✅**Accomplished**)
-7. Applied Data Science Capstone (▶️**In progress**)
+1. Python for Data Science, AI & Development
+2. Python Project for Data Science
+3. Databases and SQL for Data Science
+4. Data Analysis with Python
+5. Data Visualization with Python
+6. Machine Learning with Python
 
 🔧 **Tech Stack**
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, etc.)
@@ -19,7 +21,6 @@ This is a repo that saves my solutions for [IBM Data Science Professional Certif
 - Machine Learning, Data Visualization
 
 📝 **Notes**
-- Covers assignments and the Capstone project across the certificate program.
 - Python version: **3.13** (see [`environments.yml`](environments.yml))
 - Conda environment: `conda env create -f environments.yml`
 - IDE: **PyCharm** with integrated Jupyter
